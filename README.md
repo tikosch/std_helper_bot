@@ -57,9 +57,9 @@ The Telegram API was used to interact with the Telegram platform, while the
 MongoDB was utilized as the project's primary database, and the 
 PyMongo library was used to interact with the database.
 
-#### cryptography fernet #### is used to encrypt the username of the telegram user and it can also help encrypt the password.
+#### cryptography fernet is used to encrypt the username of the telegram user and it can also help encrypt the password.
 
-#### pafy ####is used to have the function of downloading video or audio from platforms like YouTube and etc.
+#### pafy is used to have the function of downloading video or audio from platforms like YouTube and etc.
 
 
 ### Conclusion:
